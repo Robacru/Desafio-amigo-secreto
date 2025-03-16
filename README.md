@@ -35,4 +35,3 @@ El principal objetivo de este desafío es fortalecer tus habilidades en lógica 
 Haz clic en el siguiente enlace para ejecutar el proyecto directamente en tu navegador (Chrome u otro compatible):
 
 [Ejecutar Proyecto](https://Robacru.github.io/Desafio-amigo-secreto/)
-
