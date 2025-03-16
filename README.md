@@ -30,8 +30,9 @@ El principal objetivo de este desafío es fortalecer tus habilidades en lógica 
    ![Amigo sorteado](assets/Amigo-sorteado.png)
 
 
-## Ejecución del Proyecto
+## Enlace para Ejecutar el Proyecto
 
-1. Clona este repositorio en tu computadora:
-   ```bash
-   git clone https://github.com/Robacru/Desafio-amigo-secreto.git
+Haz clic en el siguiente enlace para ejecutar el proyecto directamente en tu navegador (Chrome u otro compatible):
+
+[Ejecutar Proyecto](https://Robacru.github.io/Desafio-amigo-secreeto/)
+
