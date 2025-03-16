@@ -160,3 +160,16 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+.footer {
+    background-color: var(--color-tertiary);
+    padding: 24px;
+    color: var(--color-primary);
+    text-align: center;
+    font-family: "Merriweather", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
